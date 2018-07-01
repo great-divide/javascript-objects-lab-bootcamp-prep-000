@@ -7,3 +7,4 @@ function updateObjectWithKeyAndValue(object, key, value) {
   return newobj
 }
 
+return Object.assign( {})
